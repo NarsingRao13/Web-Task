@@ -1,5 +1,6 @@
 @CHARSET "ISO-8859-1";
-#Homepage-begining{
+
+#Homepage-begining {
 	width: 100%;
 	background-color: #eda566;
 	padding: 20px;
@@ -9,7 +10,7 @@
 	font-weight: bolder;
 }
 
-#shop-now-button{
+#shop-now-button {
 	padding: 15px;
 	background-color: white;
 	border: none;
